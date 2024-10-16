@@ -1,0 +1,5 @@
+name: PulumiTS
+runtime: nodejs
+description: A minimal AWS TypeScript Pulumi program
+variables:
+  num: 1234567890

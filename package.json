@@ -1,0 +1,14 @@
+{
+    "name": "PulumiTS",
+    "main": "index.ts",
+    "packageManager": "yarn@4.5.0",
+    "devDependencies": {
+        "@types/node": "^18",
+        "typescript": "^5.0.0"
+    },
+    "dependencies": {
+        "@pulumi/aws": "^6.48.0",
+        "@pulumi/pulumi": "^3.113.0",
+        "@pulumi/pulumiservice": "^0.26.3"
+    }
+}
