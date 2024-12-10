@@ -1,2 +1,5 @@
 environment:
   - creds/psp
+config:
+  PulumiTS:test:
+    secure: AAABAPlvCwLcIopqXg5JDa8Mojm8cipylgOvVwtdCFNF/kyfcBMXOZXeRaM=
